@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SevicesApp</string>
+    <string name="app_label">Services App</string>
+    <string name="pdf_app_label">PDF Download Activity</string>
+
+    <string name="app_desc_label">The purpose of the App is to study the role of Android System in creating
+        and managing the lifecycle of Bounded and Started Services</string>
+
+    <string name="downloaded_by_started_service_urls">Downloaded by Started Service</string>
+    <string name="downloaded_by_bounded_service_urls">Downloaded by Bounded Service</string>
+
+    <string name="btn_services_label">PDFs Download Activity</string>
+    <string name="text1_label">PDF 1:</string>
+    <string name="text2_label">PDF 2:</string>
+    <string name="text3_label">PDF 3:</string>
+    <string name="text4_label">PDF 4:</string>
+    <string name="text5_label">PDF 5:</string>
+    <string name="btn_download_label">Start Download</string>
+    <string name="btn_close_label">Close</string>
+
+    <string name="url1">http://www.cisco.com/c/dam/en_us/about/annual-report/2016-annual-report-full.pdf</string>
+    <string name="url2">http://www.cisco.com/web/about/ac79/docs/innov/IoE_Economy.pdf</string>
+    <string name="url3">http://www.cisco.com/c/dam/en_us/solutions/industries/docs/gov/everything-for-cities.pdf</string>
+    <string name="url4">http://www.cisco.com/web/offer/gist_ty2_asset/Cisco_2014_ASR.pdf</string>
+    <string name="url5">http://www.cisco.com/web/offer/emear/38586/images/Presentations/P3.pdf</string>
+
+</resources>
